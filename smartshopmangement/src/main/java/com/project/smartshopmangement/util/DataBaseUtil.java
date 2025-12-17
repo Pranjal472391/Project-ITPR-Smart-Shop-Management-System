@@ -7,7 +7,7 @@ public class DataBaseUtil {
     // 1. Database Configuration
     private static final String url = "jdbc:mysql://localhost:3306/smartshop_management";
     private static final String user = "root";
-    private static final String password = "0011"; 
+    private static final String password = "mysql@123"; 
 
     private static Connection con = null;
 
